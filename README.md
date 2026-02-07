@@ -1,6 +1,6 @@
 # Trade Reconciliation & Exception Management Dashboard
 
-## 📊 Project Overview
+## Project Overview
 
 Automated trade reconciliation system built to simulate middle-office operations in investment banking. Compares internal trade bookings against external broker confirmations to identify discrepancies before settlement.
 
@@ -61,7 +61,8 @@ This project simulates the daily workflow of Trade Management teams at investmen
 **Geetha Priya V**  
 Computer Science Graduate | GITAM University  
 Aspiring Operations Analyst in Financial Services
-📧 v.g.priya1132@gmail.com  
+📧
+v.g.priya1132@gmail.com  
 💼 [LinkedIn](https://www.linkedin.com/in/geetha-priya-vasanasetti-195578307/)
 
 
