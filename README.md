@@ -6,7 +6,7 @@ Automated trade reconciliation system built to simulate middle-office operations
 
 ![Dashboard Screenshot](tr.png)
 
-## 🎯 Key Features
+## Key Features
 
 - **Automated Reconciliation**: VLOOKUP-based matching across 11 equity trades
 - **Multi-Dimensional Break Detection**: Identifies price variance, quantity mismatches, and settlement date discrepancies
@@ -14,7 +14,7 @@ Automated trade reconciliation system built to simulate middle-office operations
 - **Exception Dashboard**: Visual KPI tracking with pie charts and bar charts
 - **Risk Prioritization**: Categorizes breaks by financial exposure
 
-## 📈 Results
+## Results
 
 - **Total Trades Analyzed**: 11
 - **Exceptions Identified**: 7 (63.6% exception rate)
@@ -24,7 +24,7 @@ Automated trade reconciliation system built to simulate middle-office operations
   - Settlement Date Discrepancies: 1
   - Missing Confirmations: 3
 
-## 🛠️ Technical Implementation
+## Technical Implementation
 
 **Tools**: Microsoft Excel  
 **Functions**: VLOOKUP, INDEX-MATCH, IF statements, Conditional Formatting  
@@ -36,7 +36,7 @@ Automated trade reconciliation system built to simulate middle-office operations
 3. `Reconciliation` - Automated comparison logic
 4. `Dashboard` - Executive summary with visualizations
 
-## 💡 Key Insights
+## Key Insights
 
 - Identified ₹46+ lakhs in trades requiring immediate attention
 - 60% of breaks were price-related, suggesting need for automated validation
@@ -44,7 +44,7 @@ Automated trade reconciliation system built to simulate middle-office operations
   - Automated price validation at trade capture
   - Daily confirmation follow-up process with brokers
 
-## 🎓 Skills Demonstrated
+## Skills Demonstrated
 
 - Trade lifecycle understanding (Execution → Confirmation → Settlement)
 - Data reconciliation & validation
@@ -53,18 +53,16 @@ Automated trade reconciliation system built to simulate middle-office operations
 - Financial exposure calculation
 - Stakeholder reporting & visualization
 
-## 📝 Use Case
+## Use Case
 
 This project simulates the daily workflow of Trade Management teams at investment banks and asset managers. In production environments, this reconciliation process safeguards billions in client assets by ensuring trades are accurately confirmed before settlement.
 
-## 👤 About
-
+## About
 **Geetha Priya V**  
 Computer Science Graduate | GITAM University  
 Aspiring Operations Analyst in Financial Services
-
 📧 v.g.priya1132@gmail.com  
-💼 [LinkedIn](https://www.linkedin.com/in/your-profile)
+💼 [LinkedIn](https://www.linkedin.com/in/geetha-priya-vasanasetti-195578307/)
 
 
 *Data Source: NSE India market data (February 2026). Trade scenarios simulated for demonstration purposes.*
